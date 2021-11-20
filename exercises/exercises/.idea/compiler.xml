@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="arrays" />
+        <module name="arrays_bonus_solution" />
+        <module name="arrays_solution" />
+        <module name="cards" />
+        <module name="cards_solution" />
+        <module name="classes" />
+        <module name="classes_bonus_solution" />
+        <module name="classes_solution" />
+        <module name="collections" />
+        <module name="collections_solution" />
+        <module name="concurrency" />
+        <module name="concurrency_example" />
+        <module name="concurrency_solution" />
+        <module name="corejava" />
+        <module name="corejava_bonus_solution" />
+        <module name="corejava_solution" />
+        <module name="date_time" />
+        <module name="date_time_solution" />
+        <module name="errors" />
+        <module name="errors_solution" />
+        <module name="functional_interfaces" />
+        <module name="functional_interfaces_solution" />
+        <module name="further_streams" />
+        <module name="further_streams_solution" />
+        <module name="generics" />
+        <module name="generics_solution" />
+        <module name="helloworld" />
+        <module name="helloworld_solution" />
+        <module name="inheritance_solution" />
+        <module name="interfaces_solution" />
+        <module name="intro_lambdas" />
+        <module name="intro_lambdas_solution" />
+        <module name="intro_streams" />
+        <module name="intro_streams_solution" />
+        <module name="io" />
+        <module name="io_solution" />
+        <module name="junit5_solution" />
+        <module name="more_classes_solution" />
+        <module name="morejava" />
+        <module name="morejava_solution" />
+        <module name="networking" />
+        <module name="networking_solution" />
+        <module name="orders" />
+        <module name="orders_solution" />
+        <module name="polymorphism" />
+        <module name="polymorphism_solution" />
+        <module name="speaking_clock" />
+        <module name="speaking_clock_engine" />
+        <module name="speaking_clock_engine_solution" />
+        <module name="speaking_clock_solution" />
+        <module name="streams_stretch" />
+        <module name="streams_stretch_solution" />
+        <module name="tdd" />
+        <module name="tdd_solution" />
+        <module name="threads" />
+        <module name="threads_solution" />
+        <module name="unit_tests" />
+        <module name="unit_tests_solution" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="network_solution" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,75 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+ 
+  <groupId>com.en-lighten</groupId>
+  <artifactId>java-course-exercises</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+ 
+  <name>parent-project</name>
+  <url>http://maven.apache.org</url>
+ 
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <parent>
+    <groupId>com.en-lighten</groupId>
+      <artifactId>core-java-course-parent-project</artifactId>
+      <version>1.0-SNAPSHOT</version>
+  </parent>
+
+  <modules>
+    <module>helloworld</module>
+    <module>corejava</module>
+    <module>concurrency</module>
+    <module>arrays</module>
+    <module>classes</module>
+    <module>orders</module>
+    <module>collections</module>
+    <module>morejava</module>
+    <module>cards</module>
+    <module>errors</module>
+    <module>generics</module>
+    <module>io</module>
+    <module>polymorphism</module>
+    <module>tdd</module>
+    <module>intro_lambdas</module>
+    <module>functional_interfaces</module>
+    <module>intro_streams</module>
+    <module>further_streams</module>
+    <module>date_time</module>
+    <module>unit_tests</module>
+    <module>speaking_clock</module>
+    <module>speaking_clock_engine</module>
+    <module>streams_stretch</module>
+    <module>threads</module>
+    <module>networking</module>
+  </modules>
+
+  <dependencies>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.12</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
+
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.6.1</version>
+        <configuration>
+          <source>1.8</source>
+          <target>1.8</target>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>

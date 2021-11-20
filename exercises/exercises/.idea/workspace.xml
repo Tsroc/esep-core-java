@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69e9d4c6-da11-4e89-bb84-06c7f2d0f05b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/solutions/arrays_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/corejava_bonus_solution/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/tdd/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/tdd_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/generics_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/streams_stretch_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/unit_tests_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/functional_interfaces_solution/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/cards/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/morejava_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/arrays_bonus_solution/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/further_streams/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/further_streams_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/classes_bonus_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/date_time_solution/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/errors/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/generics/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/morejava/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/threads_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/classes_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/intro_streams_solution/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/io/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/orders/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/intro_streams/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/speaking_clock_engine/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/polymorphism/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/threads/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/orders_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/more_classes_solution/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/unit_tests/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/speaking_clock/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/interfaces_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/junit5_solution/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/functional_interfaces/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/corejava/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/collections_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/polymorphism_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/inheritance_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/helloworld_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/corejava_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/cards_solution/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/concurrency/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/io_solution/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/helloworld/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/concurrency_solution/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/intro_lambdas/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/streams_stretch/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/arrays/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/concurrency_example/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/classes/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/collections/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/intro_lambdas_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/errors_solution/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/date_time/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/speaking_clock_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/speaking_clock_engine_solution/target/" />
+    <ignored path="$PROJECT_DIR$/solutions/networking_solution/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/networking/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/solutions/networking_solution/pom.xml" />
+        <option value="$PROJECT_DIR$/solutions/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/networking/pom.xml" />
+        <option value="$PROJECT_DIR$/exercises/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.7" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="832" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="core-java-course-parent-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.11.4" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DateTimeClient">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays" />
+      <module name="arrays_solution" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="DateTimeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tcp.client.DateTimeClient" />
+      <module name="network_solution" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tcp.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DateTimeServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tcp.server.DateTimeServer" />
+      <module name="network_solution" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tcp.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.DateTimeServer" />
+      <item itemvalue="Application.Arrays" />
+      <item itemvalue="Application.DateTimeClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DateTimeClient" />
+        <item itemvalue="Application.DateTimeServer" />
+        <item itemvalue="Application.Arrays" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69e9d4c6-da11-4e89-bb84-06c7f2d0f05b" name="Default" comment="" />
+      <created>1569439484415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569439484415</updated>
+      <workItem from="1569439487763" duration="1241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1241000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="832" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.3286517" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286517" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Google Cloud Storage" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/solutions/orders_solution/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="45" column="8" selection-end-line="45" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/more_classes_solution/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="45" column="10" lean-forward="true" selection-end-line="45" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/networking_solution/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solutions/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/morejava/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="45" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/networking/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="48" column="12" lean-forward="true" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

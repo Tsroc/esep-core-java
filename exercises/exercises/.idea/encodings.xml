@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/arrays" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/cards" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/classes" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/collections" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/concurrency" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/corejava" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/date_time" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/errors" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/functional_interfaces" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/further_streams" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/generics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/helloworld" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/intro_lambdas" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/intro_streams" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/io" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/morejava" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/networking" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/orders" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/polymorphism" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/speaking_clock" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/speaking_clock_engine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/streams_stretch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/tdd" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/threads" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exercises/unit_tests" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/arrays_bonus_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/arrays_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/cards_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/classes_bonus_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/classes_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/collections_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/concurrency_example" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/concurrency_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/corejava_bonus_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/corejava_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/date_time_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/errors_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/functional_interfaces_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/further_streams_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/generics_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/helloworld_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/inheritance_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/interfaces_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/intro_lambdas_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/intro_streams_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/io_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/junit5_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/more_classes_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/morejava_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/networking_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/orders_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/polymorphism_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/speaking_clock_engine_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/speaking_clock_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/streams_stretch_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/tdd_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/threads_solution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/solutions/unit_tests_solution" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
